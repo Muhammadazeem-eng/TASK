@@ -1,0 +1,21 @@
+{
+  "apparent_gender": "female",
+  "apparent_age_range": "20-25",
+  "skin_tone": "fair (Fitzpatrick III)",
+  "face_shape": "oval",
+  "distinctive_facial_features": [
+    "defined jawline",
+    "prominent cheekbones"
+  ],
+  "eye_color": "brown",
+  "eyebrows": "full, dark brown, arched",
+  "hair": {
+    "style": "parted down the middle, slicked back from the forehead",
+    "length": "medium",
+    "color": "dark brown",
+    "texture": "straight"
+  },
+  "facial_hair": "none",
+  "body_build": "slim",
+  "distinctive_features": "none"
+}

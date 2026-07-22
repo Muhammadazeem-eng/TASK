@@ -1,0 +1,12 @@
+{
+  "c3_man_shorts_meadow": {
+    "clip_crop_before": 0.7527618408203125,
+    "clip_crop_after": 0.723795473575592,
+    "clip_region_before": 0.7527618408203125,
+    "clip_region_after": 0.7019569873809814,
+    "judge_print_before": 5,
+    "judge_print_after": 3,
+    "judge_overall_before": 5,
+    "judge_overall_after": 3
+  }
+}

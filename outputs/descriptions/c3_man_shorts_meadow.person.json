@@ -1,0 +1,22 @@
+{
+  "apparent_gender": "male",
+  "apparent_age_range": "25-35",
+  "skin_tone": "medium brown, Fitzpatrick IV",
+  "face_shape": "oval",
+  "distinctive_facial_features": [
+    "defined jawline",
+    "full lips",
+    "small scar above left eyebrow"
+  ],
+  "eye_color": "dark brown",
+  "eyebrows": "thick, dark, well-groomed",
+  "hair": {
+    "style": "short fade, slightly longer on top",
+    "length": "short",
+    "color": "dark brown with auburn highlights",
+    "texture": "straight"
+  },
+  "facial_hair": "short, well-trimmed beard and mustache connected",
+  "body_build": "athletic, lean muscle",
+  "distinctive_features": []
+}

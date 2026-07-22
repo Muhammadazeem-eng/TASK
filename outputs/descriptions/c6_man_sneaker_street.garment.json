@@ -1,0 +1,21 @@
+{
+  "type": "sneakers",
+  "category": "footwear",
+  "primary_color": "dark brown #4A3528",
+  "secondary_colors": [
+    "tan #C1885E",
+    "white #FFFFFF",
+    "brown #66412D"
+  ],
+  "pattern_or_print": "none",
+  "logo_or_text": "ARIGATO on the side of the shoe near the laces in gold, ARIGATO on the side of the dark brown sole",
+  "material_texture": "suede, rubber sole",
+  "collar_neckline": "low-cut",
+  "closure": "laces",
+  "sleeve_or_leg_length": "null",
+  "distinctive_details": [
+    "perforated vamp",
+    "padded collar"
+  ],
+  "fit": "null"
+}

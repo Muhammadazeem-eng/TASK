@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+*.log
+*.zip
+~$*.docx
+.DS_Store
+# keep outputs/ and report/assets/ committed as visual evidence (the heart of the submission)
+config.bat
+node_modules

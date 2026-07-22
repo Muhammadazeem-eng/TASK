@@ -1,0 +1,22 @@
+{
+  "apparent_gender": "female",
+  "apparent_age_range": "20-30",
+  "skin_tone": "fair (Fitzpatrick II)",
+  "face_shape": "oval",
+  "distinctive_facial_features": [
+    "defined jawline",
+    "prominent cheekbones",
+    "full lips"
+  ],
+  "eye_color": "brown",
+  "eyebrows": "thick, dark, well-defined, arched",
+  "hair": {
+    "style": "straight, pulled back from face",
+    "length": "medium",
+    "color": "dark brown",
+    "texture": "sleek, wet look near roots"
+  },
+  "facial_hair": "none",
+  "body_build": "slender",
+  "distinctive_features": "none"
+}

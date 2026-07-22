@@ -1,0 +1,26 @@
+{
+  "c6_man_sneaker_street": {
+    "judge_print_before": 1,
+    "judge_print_after": 1,
+    "judge_overall_before": 1,
+    "judge_overall_after": 1,
+    "target_box": [
+      516,
+      947,
+      580,
+      985
+    ]
+  },
+  "c4_woman_shorts_street": {
+    "judge_print_before": 1,
+    "judge_print_after": 1,
+    "judge_overall_before": 1,
+    "judge_overall_after": 1,
+    "target_box": [
+      424,
+      527,
+      451,
+      541
+    ]
+  }
+}

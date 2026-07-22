@@ -1,0 +1,1125 @@
+{
+  "c1_man_jacket_street": {
+    "conditions": {
+      "C0_baseline": {
+        "clip_garment": 0.5064807534217834,
+        "color_hist": 0.07445306330919266,
+        "delta_e": 35.19714196145263,
+        "arcface": 0.6926068067550659,
+        "judge_garment": {
+          "print_logo_fidelity": 5,
+          "color_fidelity": 5,
+          "structure_fidelity": 5,
+          "texture_fidelity": 5,
+          "overall": 5,
+          "issues": []
+        },
+        "judge_identity": {
+          "facial_identity": 4,
+          "skin_tone": 5,
+          "hair": 5,
+          "body": 4,
+          "overall": 4,
+          "same_person_confidence_0_100": 80,
+          "issues": []
+        }
+      },
+      "C1_structured": {
+        "clip_garment": 0.5975568294525146,
+        "color_hist": 0.028623411431908607,
+        "delta_e": 30.69996456420096,
+        "arcface": 0.7271201610565186,
+        "judge_garment": {
+          "print_logo_fidelity": 5,
+          "color_fidelity": 4,
+          "structure_fidelity": 5,
+          "texture_fidelity": 4,
+          "overall": 4,
+          "issues": [
+            "The color in the second image appears slightly desaturated compared to the packshot, leaning more towards a muted olive green.",
+            "The texture of the fabric in the second image, while similar, seems to lack some of the subtle sheen and waxiness that is visible in the packshot, which makes it look slightly flatter."
+          ]
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 5,
+          "hair": 4,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 90,
+          "issues": [
+            "Hair color is slightly different, the reference has a more reddish tone to his hair."
+          ]
+        },
+        "_path": "outputs\\c1_man_jacket_street\\structured_0.png"
+      },
+      "C2_bestN_garment": {
+        "clip_garment": 0.5975568294525146,
+        "color_hist": 0.028623411431908607,
+        "delta_e": 30.69996456420096,
+        "arcface": 0.7271201610565186,
+        "judge_garment": {
+          "print_logo_fidelity": 5,
+          "color_fidelity": 4,
+          "structure_fidelity": 5,
+          "texture_fidelity": 4,
+          "overall": 4,
+          "issues": [
+            "The color in the second image appears slightly desaturated compared to the packshot, leaning more towards a muted olive green.",
+            "The texture of the fabric in the second image, while similar, seems to lack some of the subtle sheen and waxiness that is visible in the packshot, which makes it look slightly flatter."
+          ]
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 5,
+          "hair": 4,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 90,
+          "issues": [
+            "Hair color is slightly different, the reference has a more reddish tone to his hair."
+          ]
+        },
+        "_path": "outputs\\c1_man_jacket_street\\structured_0.png"
+      },
+      "C2_bestN_face": {
+        "clip_garment": 0.520317792892456,
+        "color_hist": 0.03660620003938675,
+        "delta_e": 32.9225213485457,
+        "arcface": 0.8614482283592224,
+        "judge_garment": {
+          "print_logo_fidelity": 5,
+          "color_fidelity": 5,
+          "structure_fidelity": 5,
+          "texture_fidelity": 5,
+          "overall": 5,
+          "issues": []
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 5,
+          "hair": 5,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 95,
+          "issues": []
+        },
+        "_path": "outputs\\c1_man_jacket_street\\structured_1.png"
+      }
+    },
+    "candidates": [
+      {
+        "clip_garment": 0.5975568294525146,
+        "color_hist": 0.028623411431908607,
+        "delta_e": 30.69996456420096,
+        "arcface": 0.7271201610565186,
+        "judge_garment": {
+          "print_logo_fidelity": 5,
+          "color_fidelity": 4,
+          "structure_fidelity": 5,
+          "texture_fidelity": 4,
+          "overall": 4,
+          "issues": [
+            "The color in the second image appears slightly desaturated compared to the packshot, leaning more towards a muted olive green.",
+            "The texture of the fabric in the second image, while similar, seems to lack some of the subtle sheen and waxiness that is visible in the packshot, which makes it look slightly flatter."
+          ]
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 5,
+          "hair": 4,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 90,
+          "issues": [
+            "Hair color is slightly different, the reference has a more reddish tone to his hair."
+          ]
+        },
+        "_path": "outputs\\c1_man_jacket_street\\structured_0.png"
+      },
+      {
+        "clip_garment": 0.520317792892456,
+        "color_hist": 0.03660620003938675,
+        "delta_e": 32.9225213485457,
+        "arcface": 0.8614482283592224,
+        "judge_garment": {
+          "print_logo_fidelity": 5,
+          "color_fidelity": 5,
+          "structure_fidelity": 5,
+          "texture_fidelity": 5,
+          "overall": 5,
+          "issues": []
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 5,
+          "hair": 5,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 95,
+          "issues": []
+        },
+        "_path": "outputs\\c1_man_jacket_street\\structured_1.png"
+      },
+      {
+        "clip_garment": 0.6006354093551636,
+        "color_hist": 0.02191034145653248,
+        "delta_e": 33.091061900376744,
+        "arcface": 0.7037858366966248,
+        "judge_garment": {
+          "print_logo_fidelity": 5,
+          "color_fidelity": 5,
+          "structure_fidelity": 5,
+          "texture_fidelity": 5,
+          "overall": 5,
+          "issues": []
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 5,
+          "hair": 5,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 95,
+          "issues": []
+        },
+        "_path": "outputs\\c1_man_jacket_street\\structured_2.png"
+      }
+    ]
+  },
+  "c2_woman_jacket_forest": {
+    "conditions": {
+      "C0_baseline": {
+        "clip_garment": 0.6237136125564575,
+        "color_hist": 0.05517338216304779,
+        "delta_e": 32.8398331166064,
+        "arcface": 0.5742325186729431,
+        "judge_garment": {
+          "print_logo_fidelity": 4,
+          "color_fidelity": 5,
+          "structure_fidelity": 5,
+          "texture_fidelity": 5,
+          "overall": 4,
+          "issues": [
+            "The interior label/logo visible in the packshot is not visible in the generated image, but there's no way to confirm if it should be visible based on how the jacket is worn."
+          ]
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 5,
+          "hair": 4,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 90,
+          "issues": []
+        }
+      },
+      "C1_structured": {
+        "clip_garment": 0.6298589110374451,
+        "color_hist": 0.07188542187213898,
+        "delta_e": 26.95238839033164,
+        "arcface": 0.6895586252212524,
+        "judge_garment": {
+          "print_logo_fidelity": 5,
+          "color_fidelity": 5,
+          "structure_fidelity": 5,
+          "texture_fidelity": 5,
+          "overall": 5,
+          "issues": []
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 5,
+          "hair": 4,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 85,
+          "issues": [
+            "hair looks slightly darker due to lighting and styling differences"
+          ]
+        },
+        "_path": "outputs\\c2_woman_jacket_forest\\structured_0.png"
+      },
+      "C2_bestN_garment": {
+        "clip_garment": 0.725658655166626,
+        "color_hist": 0.1288287341594696,
+        "delta_e": 26.60116378694672,
+        "arcface": 0.6572240591049194,
+        "judge_garment": {
+          "print_logo_fidelity": 5,
+          "color_fidelity": 5,
+          "structure_fidelity": 5,
+          "texture_fidelity": 5,
+          "overall": 5,
+          "issues": []
+        },
+        "judge_identity": {
+          "facial_identity": 4,
+          "skin_tone": 5,
+          "hair": 5,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 90,
+          "issues": []
+        },
+        "_path": "outputs\\c2_woman_jacket_forest\\structured_1.png"
+      },
+      "C2_bestN_face": {
+        "clip_garment": 0.6298589110374451,
+        "color_hist": 0.07188542187213898,
+        "delta_e": 26.95238839033164,
+        "arcface": 0.6895586252212524,
+        "judge_garment": {
+          "print_logo_fidelity": 5,
+          "color_fidelity": 5,
+          "structure_fidelity": 5,
+          "texture_fidelity": 5,
+          "overall": 5,
+          "issues": []
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 5,
+          "hair": 4,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 85,
+          "issues": [
+            "hair looks slightly darker due to lighting and styling differences"
+          ]
+        },
+        "_path": "outputs\\c2_woman_jacket_forest\\structured_0.png"
+      }
+    },
+    "candidates": [
+      {
+        "clip_garment": 0.6298589110374451,
+        "color_hist": 0.07188542187213898,
+        "delta_e": 26.95238839033164,
+        "arcface": 0.6895586252212524,
+        "judge_garment": {
+          "print_logo_fidelity": 5,
+          "color_fidelity": 5,
+          "structure_fidelity": 5,
+          "texture_fidelity": 5,
+          "overall": 5,
+          "issues": []
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 5,
+          "hair": 4,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 85,
+          "issues": [
+            "hair looks slightly darker due to lighting and styling differences"
+          ]
+        },
+        "_path": "outputs\\c2_woman_jacket_forest\\structured_0.png"
+      },
+      {
+        "clip_garment": 0.725658655166626,
+        "color_hist": 0.1288287341594696,
+        "delta_e": 26.60116378694672,
+        "arcface": 0.6572240591049194,
+        "judge_garment": {
+          "print_logo_fidelity": 5,
+          "color_fidelity": 5,
+          "structure_fidelity": 5,
+          "texture_fidelity": 5,
+          "overall": 5,
+          "issues": []
+        },
+        "judge_identity": {
+          "facial_identity": 4,
+          "skin_tone": 5,
+          "hair": 5,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 90,
+          "issues": []
+        },
+        "_path": "outputs\\c2_woman_jacket_forest\\structured_1.png"
+      },
+      {
+        "clip_garment": 0.7312705516815186,
+        "color_hist": 0.09581809490919113,
+        "delta_e": 26.517078516091203,
+        "arcface": 0.5015678405761719,
+        "judge_garment": {
+          "print_logo_fidelity": 5,
+          "color_fidelity": 5,
+          "structure_fidelity": 5,
+          "texture_fidelity": 5,
+          "overall": 5,
+          "issues": []
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 5,
+          "hair": 4,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 90,
+          "issues": [
+            "Hair appears slightly darker in the second image, possibly due to lighting or styling."
+          ]
+        },
+        "_path": "outputs\\c2_woman_jacket_forest\\structured_2.png"
+      }
+    ]
+  },
+  "c3_man_shorts_meadow": {
+    "conditions": {
+      "C0_baseline": {
+        "clip_garment": 0.7161498665809631,
+        "color_hist": 0.01666928455233574,
+        "delta_e": 22.111572084209698,
+        "arcface": 0.808402419090271,
+        "judge_garment": {
+          "print_logo_fidelity": 3,
+          "color_fidelity": 5,
+          "structure_fidelity": 5,
+          "texture_fidelity": 4,
+          "overall": 4,
+          "issues": [
+            "The logo/print on the left leg is not clearly visible in the second image.",
+            "The texture of the fabric appears slightly smoother in the second image compared to the packshot."
+          ]
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 5,
+          "hair": 5,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 95,
+          "issues": []
+        }
+      },
+      "C1_structured": {
+        "clip_garment": 0.7436085939407349,
+        "color_hist": 0.03376571089029312,
+        "delta_e": 22.542393790882073,
+        "arcface": 0.5482030510902405,
+        "judge_garment": {
+          "print_logo_fidelity": 5,
+          "color_fidelity": 5,
+          "structure_fidelity": 5,
+          "texture_fidelity": 5,
+          "overall": 5,
+          "issues": []
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 4,
+          "hair": 5,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 95,
+          "issues": []
+        },
+        "_path": "outputs\\c3_man_shorts_meadow\\structured_0.png"
+      },
+      "C2_bestN_garment": {
+        "clip_garment": 0.7150341272354126,
+        "color_hist": 0.06393273174762726,
+        "delta_e": 23.56681391090452,
+        "arcface": 0.7758892774581909,
+        "judge_garment": {
+          "print_logo_fidelity": 5,
+          "color_fidelity": 5,
+          "structure_fidelity": 5,
+          "texture_fidelity": 5,
+          "overall": 5,
+          "issues": []
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 4,
+          "hair": 5,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 95,
+          "issues": [
+            "slight variation in skin tone likely due to lighting."
+          ]
+        },
+        "_path": "outputs\\c3_man_shorts_meadow\\structured_1.png"
+      },
+      "C2_bestN_face": {
+        "clip_garment": 0.7150341272354126,
+        "color_hist": 0.06393273174762726,
+        "delta_e": 23.56681391090452,
+        "arcface": 0.7758892774581909,
+        "judge_garment": {
+          "print_logo_fidelity": 5,
+          "color_fidelity": 5,
+          "structure_fidelity": 5,
+          "texture_fidelity": 5,
+          "overall": 5,
+          "issues": []
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 4,
+          "hair": 5,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 95,
+          "issues": [
+            "slight variation in skin tone likely due to lighting."
+          ]
+        },
+        "_path": "outputs\\c3_man_shorts_meadow\\structured_1.png"
+      }
+    },
+    "candidates": [
+      {
+        "clip_garment": 0.7436085939407349,
+        "color_hist": 0.03376571089029312,
+        "delta_e": 22.542393790882073,
+        "arcface": 0.5482030510902405,
+        "judge_garment": {
+          "print_logo_fidelity": 5,
+          "color_fidelity": 5,
+          "structure_fidelity": 5,
+          "texture_fidelity": 5,
+          "overall": 5,
+          "issues": []
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 4,
+          "hair": 5,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 95,
+          "issues": []
+        },
+        "_path": "outputs\\c3_man_shorts_meadow\\structured_0.png"
+      },
+      {
+        "clip_garment": 0.7150341272354126,
+        "color_hist": 0.06393273174762726,
+        "delta_e": 23.56681391090452,
+        "arcface": 0.7758892774581909,
+        "judge_garment": {
+          "print_logo_fidelity": 5,
+          "color_fidelity": 5,
+          "structure_fidelity": 5,
+          "texture_fidelity": 5,
+          "overall": 5,
+          "issues": []
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 4,
+          "hair": 5,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 95,
+          "issues": [
+            "slight variation in skin tone likely due to lighting."
+          ]
+        },
+        "_path": "outputs\\c3_man_shorts_meadow\\structured_1.png"
+      },
+      {
+        "clip_garment": 0.5018362402915955,
+        "color_hist": 0.004898962564766407,
+        "delta_e": 28.668203522570234,
+        "arcface": 0.672296941280365,
+        "judge_garment": {
+          "print_logo_fidelity": 5,
+          "color_fidelity": 5,
+          "structure_fidelity": 5,
+          "texture_fidelity": 5,
+          "overall": 5,
+          "issues": []
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 4,
+          "hair": 5,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 90,
+          "issues": [
+            "Skin tone slightly differs due to lighting."
+          ]
+        },
+        "_path": "outputs\\c3_man_shorts_meadow\\structured_2.png"
+      }
+    ]
+  },
+  "c4_woman_shorts_street": {
+    "conditions": {
+      "C0_baseline": {
+        "clip_garment": 0.6064460873603821,
+        "color_hist": 0.05107676982879639,
+        "delta_e": 34.697362033289394,
+        "arcface": 0.36287209391593933,
+        "judge_garment": {
+          "print_logo_fidelity": 4,
+          "color_fidelity": 4,
+          "structure_fidelity": 5,
+          "texture_fidelity": 4,
+          "overall": 4,
+          "issues": [
+            "The logo on the left pocket is visible, but the finer details are not clearly rendered.",
+            "The color appears slightly desaturated compared to the packshot, though the hue is correct."
+          ]
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 5,
+          "hair": 5,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 95,
+          "issues": []
+        }
+      },
+      "C1_structured": {
+        "clip_garment": 0.7410750389099121,
+        "color_hist": 0.1983186900615692,
+        "delta_e": 27.633819486442448,
+        "arcface": 0.685266375541687,
+        "judge_garment": {
+          "print_logo_fidelity": 1,
+          "color_fidelity": 4,
+          "structure_fidelity": 4,
+          "texture_fidelity": 4,
+          "overall": 3,
+          "issues": [
+            "The generated image does not show any of the branding, logos, or text that are clearly visible on the packshot, including the 'BEYOND NORDIC' logo on the left pocket and the 'RECCO' text on the right side."
+          ]
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 5,
+          "hair": 4,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 95,
+          "issues": []
+        },
+        "_path": "outputs\\c4_woman_shorts_street\\structured_0.png"
+      },
+      "C2_bestN_garment": {
+        "clip_garment": 0.7410750389099121,
+        "color_hist": 0.1983186900615692,
+        "delta_e": 27.633819486442448,
+        "arcface": 0.685266375541687,
+        "judge_garment": {
+          "print_logo_fidelity": 1,
+          "color_fidelity": 4,
+          "structure_fidelity": 4,
+          "texture_fidelity": 4,
+          "overall": 3,
+          "issues": [
+            "The generated image does not show any of the branding, logos, or text that are clearly visible on the packshot, including the 'BEYOND NORDIC' logo on the left pocket and the 'RECCO' text on the right side."
+          ]
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 5,
+          "hair": 4,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 95,
+          "issues": []
+        },
+        "_path": "outputs\\c4_woman_shorts_street\\structured_0.png"
+      },
+      "C2_bestN_face": {
+        "clip_garment": 0.7187322974205017,
+        "color_hist": 0.08727255463600159,
+        "delta_e": 26.424640971256522,
+        "arcface": 0.701927900314331,
+        "judge_garment": {
+          "print_logo_fidelity": 5,
+          "color_fidelity": 5,
+          "structure_fidelity": 5,
+          "texture_fidelity": 5,
+          "overall": 5,
+          "issues": []
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 5,
+          "hair": 4,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 90,
+          "issues": [
+            "hair appears slightly lighter/more visible in the generated image due to lighting"
+          ]
+        },
+        "_path": "outputs\\c4_woman_shorts_street\\structured_1.png"
+      }
+    },
+    "candidates": [
+      {
+        "clip_garment": 0.7410750389099121,
+        "color_hist": 0.1983186900615692,
+        "delta_e": 27.633819486442448,
+        "arcface": 0.685266375541687,
+        "judge_garment": {
+          "print_logo_fidelity": 1,
+          "color_fidelity": 4,
+          "structure_fidelity": 4,
+          "texture_fidelity": 4,
+          "overall": 3,
+          "issues": [
+            "The generated image does not show any of the branding, logos, or text that are clearly visible on the packshot, including the 'BEYOND NORDIC' logo on the left pocket and the 'RECCO' text on the right side."
+          ]
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 5,
+          "hair": 4,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 95,
+          "issues": []
+        },
+        "_path": "outputs\\c4_woman_shorts_street\\structured_0.png"
+      },
+      {
+        "clip_garment": 0.7187322974205017,
+        "color_hist": 0.08727255463600159,
+        "delta_e": 26.424640971256522,
+        "arcface": 0.701927900314331,
+        "judge_garment": {
+          "print_logo_fidelity": 5,
+          "color_fidelity": 5,
+          "structure_fidelity": 5,
+          "texture_fidelity": 5,
+          "overall": 5,
+          "issues": []
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 5,
+          "hair": 4,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 90,
+          "issues": [
+            "hair appears slightly lighter/more visible in the generated image due to lighting"
+          ]
+        },
+        "_path": "outputs\\c4_woman_shorts_street\\structured_1.png"
+      },
+      {
+        "clip_garment": 0.7438849806785583,
+        "color_hist": 0.11509684473276138,
+        "delta_e": 26.188197857391515,
+        "arcface": 0.58013516664505,
+        "judge_garment": {
+          "print_logo_fidelity": 3,
+          "color_fidelity": 4,
+          "structure_fidelity": 4,
+          "texture_fidelity": 4,
+          "overall": 4,
+          "issues": [
+            "The logo on the left leg is present but appears less defined and slightly altered compared to the packshot.",
+            "The 'RECCO' text and small logo on the right side are missing in the generated image."
+          ]
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 5,
+          "hair": 4,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 95,
+          "issues": [
+            "hair seems slightly lighter/more visible in the second image but this could be due to lighting differences"
+          ]
+        },
+        "_path": "outputs\\c4_woman_shorts_street\\structured_2.png"
+      }
+    ]
+  },
+  "c5_woman_sneaker_forest": {
+    "conditions": {
+      "C0_baseline": {
+        "clip_garment": 0.20374572277069092,
+        "color_hist": 6.692951137665659e-05,
+        "delta_e": 26.600669852078358,
+        "arcface": 0.5118532180786133,
+        "judge_garment": {
+          "print_logo_fidelity": 5,
+          "color_fidelity": 4,
+          "structure_fidelity": 4,
+          "texture_fidelity": 4,
+          "overall": 4,
+          "issues": [
+            "The color of the shoes seems slightly lighter in the generated image compared to the packshot.",
+            "The laces on the generated image appear a bit thinner than those in the packshot.",
+            "The overall shape and details of the shoe are generally consistent, but minor variations in shading and light might make some aspects seem slightly different."
+          ]
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 5,
+          "hair": 5,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 95,
+          "issues": []
+        }
+      },
+      "C1_structured": {
+        "clip_garment": 0.1645268201828003,
+        "color_hist": 0.00022530206479132175,
+        "delta_e": 30.042161748434268,
+        "arcface": 0.6922529935836792,
+        "judge_garment": {
+          "print_logo_fidelity": 5,
+          "color_fidelity": 5,
+          "structure_fidelity": 4,
+          "texture_fidelity": 4,
+          "overall": 4,
+          "issues": [
+            "The texture of the shoe in the generated image appears slightly more blurred or less distinct compared to the packshot, particularly in the suede areas.",
+            "The overall silhouette of the shoe, while generally correct, seems to lack some of the sharpness and precise detailing seen in the packshot, possibly due to resolution or rendering."
+          ]
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 5,
+          "hair": 4,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 85,
+          "issues": [
+            "hair looks slightly darker"
+          ]
+        },
+        "_path": "outputs\\c5_woman_sneaker_forest\\structured_0.png"
+      },
+      "C2_bestN_garment": {
+        "clip_garment": 0.2761821150779724,
+        "color_hist": 0.00038515334017574787,
+        "delta_e": 40.79294941144336,
+        "arcface": 0.5780143737792969,
+        "judge_garment": {
+          "print_logo_fidelity": 5,
+          "color_fidelity": 5,
+          "structure_fidelity": 5,
+          "texture_fidelity": 5,
+          "overall": 5,
+          "issues": []
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 5,
+          "hair": 5,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 95,
+          "issues": []
+        },
+        "_path": "outputs\\c5_woman_sneaker_forest\\structured_2.png"
+      },
+      "C2_bestN_face": {
+        "clip_garment": 0.1645268201828003,
+        "color_hist": 0.00022530206479132175,
+        "delta_e": 30.042161748434268,
+        "arcface": 0.6922529935836792,
+        "judge_garment": {
+          "print_logo_fidelity": 5,
+          "color_fidelity": 5,
+          "structure_fidelity": 4,
+          "texture_fidelity": 4,
+          "overall": 4,
+          "issues": [
+            "The texture of the shoe in the generated image appears slightly more blurred or less distinct compared to the packshot, particularly in the suede areas.",
+            "The overall silhouette of the shoe, while generally correct, seems to lack some of the sharpness and precise detailing seen in the packshot, possibly due to resolution or rendering."
+          ]
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 5,
+          "hair": 4,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 85,
+          "issues": [
+            "hair looks slightly darker"
+          ]
+        },
+        "_path": "outputs\\c5_woman_sneaker_forest\\structured_0.png"
+      }
+    },
+    "candidates": [
+      {
+        "clip_garment": 0.1645268201828003,
+        "color_hist": 0.00022530206479132175,
+        "delta_e": 30.042161748434268,
+        "arcface": 0.6922529935836792,
+        "judge_garment": {
+          "print_logo_fidelity": 5,
+          "color_fidelity": 5,
+          "structure_fidelity": 4,
+          "texture_fidelity": 4,
+          "overall": 4,
+          "issues": [
+            "The texture of the shoe in the generated image appears slightly more blurred or less distinct compared to the packshot, particularly in the suede areas.",
+            "The overall silhouette of the shoe, while generally correct, seems to lack some of the sharpness and precise detailing seen in the packshot, possibly due to resolution or rendering."
+          ]
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 5,
+          "hair": 4,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 85,
+          "issues": [
+            "hair looks slightly darker"
+          ]
+        },
+        "_path": "outputs\\c5_woman_sneaker_forest\\structured_0.png"
+      },
+      {
+        "clip_garment": 0.2247219681739807,
+        "color_hist": 0.00015097847790457308,
+        "delta_e": 25.71544476211953,
+        "arcface": 0.6864981055259705,
+        "judge_garment": {
+          "print_logo_fidelity": 4,
+          "color_fidelity": 5,
+          "structure_fidelity": 5,
+          "texture_fidelity": 5,
+          "overall": 4,
+          "issues": [
+            "The logo/text 'ARIGATO' on the side of the sole is less defined and slightly distorted compared to the packshot."
+          ]
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 5,
+          "hair": 5,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 95,
+          "issues": []
+        },
+        "_path": "outputs\\c5_woman_sneaker_forest\\structured_1.png"
+      },
+      {
+        "clip_garment": 0.2761821150779724,
+        "color_hist": 0.00038515334017574787,
+        "delta_e": 40.79294941144336,
+        "arcface": 0.5780143737792969,
+        "judge_garment": {
+          "print_logo_fidelity": 5,
+          "color_fidelity": 5,
+          "structure_fidelity": 5,
+          "texture_fidelity": 5,
+          "overall": 5,
+          "issues": []
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 5,
+          "hair": 5,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 95,
+          "issues": []
+        },
+        "_path": "outputs\\c5_woman_sneaker_forest\\structured_2.png"
+      }
+    ]
+  },
+  "c6_man_sneaker_street": {
+    "conditions": {
+      "C0_baseline": {
+        "clip_garment": 0.17716681957244873,
+        "color_hist": 0.15428714454174042,
+        "delta_e": 37.70431078587016,
+        "arcface": 0.8287842273712158,
+        "judge_garment": {
+          "print_logo_fidelity": 5,
+          "color_fidelity": 5,
+          "structure_fidelity": 5,
+          "texture_fidelity": 5,
+          "overall": 5,
+          "issues": []
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 5,
+          "hair": 4,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 95,
+          "issues": [
+            "hair seems slightly lighter red in generated image"
+          ]
+        }
+      },
+      "C1_structured": {
+        "clip_garment": 0.1640664041042328,
+        "color_hist": 0.351370632648468,
+        "delta_e": 36.03678708782098,
+        "arcface": 0.7627319097518921,
+        "judge_garment": {
+          "print_logo_fidelity": 5,
+          "color_fidelity": 5,
+          "structure_fidelity": 5,
+          "texture_fidelity": 5,
+          "overall": 5,
+          "issues": []
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 5,
+          "hair": 5,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 95,
+          "issues": []
+        },
+        "_path": "outputs\\c6_man_sneaker_street\\structured_0.png"
+      },
+      "C2_bestN_garment": {
+        "clip_garment": 0.1640664041042328,
+        "color_hist": 0.351370632648468,
+        "delta_e": 36.03678708782098,
+        "arcface": 0.7627319097518921,
+        "judge_garment": {
+          "print_logo_fidelity": 5,
+          "color_fidelity": 5,
+          "structure_fidelity": 5,
+          "texture_fidelity": 5,
+          "overall": 5,
+          "issues": []
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 5,
+          "hair": 5,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 95,
+          "issues": []
+        },
+        "_path": "outputs\\c6_man_sneaker_street\\structured_0.png"
+      },
+      "C2_bestN_face": {
+        "clip_garment": 0.20310625433921814,
+        "color_hist": 0.2592519521713257,
+        "delta_e": 34.96460465078588,
+        "arcface": 0.7950080633163452,
+        "judge_garment": {
+          "print_logo_fidelity": 4,
+          "color_fidelity": 5,
+          "structure_fidelity": 5,
+          "texture_fidelity": 5,
+          "overall": 4,
+          "issues": [
+            "The 'Arigato' text on the sole of the shoe is not clear and less prominent compared to the packshot, suggesting a potential loss of print detail."
+          ]
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 5,
+          "hair": 4,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 90,
+          "issues": [
+            "Hair color appears slightly different, but this could be due to lighting variation between images."
+          ]
+        },
+        "_path": "outputs\\c6_man_sneaker_street\\structured_1.png"
+      }
+    },
+    "candidates": [
+      {
+        "clip_garment": 0.1640664041042328,
+        "color_hist": 0.351370632648468,
+        "delta_e": 36.03678708782098,
+        "arcface": 0.7627319097518921,
+        "judge_garment": {
+          "print_logo_fidelity": 5,
+          "color_fidelity": 5,
+          "structure_fidelity": 5,
+          "texture_fidelity": 5,
+          "overall": 5,
+          "issues": []
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 5,
+          "hair": 5,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 95,
+          "issues": []
+        },
+        "_path": "outputs\\c6_man_sneaker_street\\structured_0.png"
+      },
+      {
+        "clip_garment": 0.20310625433921814,
+        "color_hist": 0.2592519521713257,
+        "delta_e": 34.96460465078588,
+        "arcface": 0.7950080633163452,
+        "judge_garment": {
+          "print_logo_fidelity": 4,
+          "color_fidelity": 5,
+          "structure_fidelity": 5,
+          "texture_fidelity": 5,
+          "overall": 4,
+          "issues": [
+            "The 'Arigato' text on the sole of the shoe is not clear and less prominent compared to the packshot, suggesting a potential loss of print detail."
+          ]
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 5,
+          "hair": 4,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 90,
+          "issues": [
+            "Hair color appears slightly different, but this could be due to lighting variation between images."
+          ]
+        },
+        "_path": "outputs\\c6_man_sneaker_street\\structured_1.png"
+      },
+      {
+        "clip_garment": 0.20130860805511475,
+        "color_hist": 0.019152160733938217,
+        "delta_e": 51.35560004956359,
+        "arcface": 0.781322717666626,
+        "judge_garment": {
+          "print_logo_fidelity": 5,
+          "color_fidelity": 5,
+          "structure_fidelity": 5,
+          "texture_fidelity": 5,
+          "overall": 5,
+          "issues": []
+        },
+        "judge_identity": {
+          "facial_identity": 5,
+          "skin_tone": 5,
+          "hair": 5,
+          "body": 5,
+          "overall": 5,
+          "same_person_confidence_0_100": 95,
+          "issues": []
+        },
+        "_path": "outputs\\c6_man_sneaker_street\\structured_2.png"
+      }
+    ]
+  }
+}

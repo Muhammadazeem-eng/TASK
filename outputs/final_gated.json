@@ -1,0 +1,58 @@
+{
+  "per_case": {
+    "c1_man_jacket_street": {
+      "identity_baseline": 0.6926068067550659,
+      "identity_gated": 0.8614482283592224,
+      "identity_src": "outputs\\c1_man_jacket_street\\structured_1.png",
+      "garment_baseline": 0.5064807534217834,
+      "garment_gated": 0.6006354093551636,
+      "garment_src": "outputs\\c1_man_jacket_street\\structured_2.png"
+    },
+    "c2_woman_jacket_forest": {
+      "identity_baseline": 0.5742325186729431,
+      "identity_gated": 0.6895586252212524,
+      "identity_src": "outputs\\c2_woman_jacket_forest\\structured_0.png",
+      "garment_baseline": 0.6237136125564575,
+      "garment_gated": 0.7312705516815186,
+      "garment_src": "outputs\\c2_woman_jacket_forest\\structured_2.png"
+    },
+    "c3_man_shorts_meadow": {
+      "identity_baseline": 0.808402419090271,
+      "identity_gated": 0.808402419090271,
+      "identity_src": "baseline",
+      "garment_baseline": 0.7161498665809631,
+      "garment_gated": 0.7436085939407349,
+      "garment_src": "outputs\\c3_man_shorts_meadow\\structured_0.png"
+    },
+    "c4_woman_shorts_street": {
+      "identity_baseline": 0.36287209391593933,
+      "identity_gated": 0.7889975309371948,
+      "identity_src": "refined",
+      "garment_baseline": 0.6064460873603821,
+      "garment_gated": 0.7438849806785583,
+      "garment_src": "outputs\\c4_woman_shorts_street\\structured_2.png"
+    },
+    "c5_woman_sneaker_forest": {
+      "identity_baseline": 0.5118532180786133,
+      "identity_gated": 0.6922529935836792,
+      "identity_src": "outputs\\c5_woman_sneaker_forest\\structured_0.png",
+      "garment_baseline": 0.20374572277069092,
+      "garment_gated": 0.2761821150779724,
+      "garment_src": "outputs\\c5_woman_sneaker_forest\\structured_2.png"
+    },
+    "c6_man_sneaker_street": {
+      "identity_baseline": 0.8287842273712158,
+      "identity_gated": 0.8287842273712158,
+      "identity_src": "baseline",
+      "garment_baseline": 0.17716681957244873,
+      "garment_gated": 0.20310625433921814,
+      "garment_src": "outputs\\c6_man_sneaker_street\\structured_1.png"
+    }
+  },
+  "summary": {
+    "identity_baseline_mean": 0.6297918806473414,
+    "identity_gated_mean": 0.7782406707604727,
+    "garment_baseline_mean": 0.47228381037712097,
+    "garment_gated_mean": 0.5497813175121943
+  }
+}

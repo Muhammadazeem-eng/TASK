@@ -1,0 +1,14 @@
+# Core
+requests>=2.31
+python-dotenv>=1.0
+Pillow>=10.0
+numpy>=1.26
+tqdm>=4.66
+
+# Metrics (local, free)
+opencv-python>=4.9          # image ops, color spaces
+scikit-image>=0.22          # SSIM / color utilities
+insightface>=0.7.3          # ArcFace face-embedding identity metric (Task 3)
+onnxruntime>=1.17           # backend for insightface
+open-clip-torch>=2.24       # CLIP / DINO garment-embedding metric (Task 1)
+torch>=2.2                  # backend for open-clip (CPU is fine)

@@ -1,0 +1,16 @@
+{
+  "c4_woman_shorts_street": {
+    "clip_garment_crop_hero": 0.7187314629554749,
+    "judge_print_fullbody": 1,
+    "judge_print_hero": 4,
+    "judge_overall_fullbody": 3,
+    "judge_overall_hero": 4
+  },
+  "c6_man_sneaker_street": {
+    "clip_garment_crop_hero": 0.5826971530914307,
+    "judge_print_fullbody": 5,
+    "judge_print_hero": 5,
+    "judge_overall_fullbody": 5,
+    "judge_overall_hero": 5
+  }
+}

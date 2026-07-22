@@ -1,0 +1,14 @@
+{
+  "c4_woman_shorts_street": {
+    "arcface_before_refine": 0.701927900314331,
+    "arcface_after_refine": 0.7889975309371948
+  },
+  "c5_woman_sneaker_forest": {
+    "arcface_before_refine": 0.6922529935836792,
+    "arcface_after_refine": 0.5820467472076416
+  },
+  "c2_woman_jacket_forest": {
+    "arcface_before_refine": 0.6895586252212524,
+    "arcface_after_refine": 0.6466532945632935
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "c1_man_jacket_street": {
+    "baseline": "outputs\\c1_man_jacket_street\\baseline.png",
+    "structured": [
+      "outputs\\c1_man_jacket_street\\structured_0.png",
+      "outputs\\c1_man_jacket_street\\structured_1.png",
+      "outputs\\c1_man_jacket_street\\structured_2.png"
+    ],
+    "garment_desc": {
+      "type": "jacket",
+      "category": "outerwear",
+      "primary_color": "dark olive green #3E4B3E",
+      "secondary_colors": [
+        "dark brown #4B3B2B"
+      ],
+      "pattern_or_print": "none",
+      "logo_or_text": "A DAY'S MARCH on internal tag below collar",
+      "material_texture": "smooth woven fabric with visible stitching, corduroy collar",
+      "collar_neckline": "pointed collar with corduroy texture",
+      "closure": "buttons, concealed",
+      "sleeve_or_leg_length": "long sleeve",
+      "distinctive_details": [
+        "two rectangular flap pockets on front hip",
+        "raglan sleeves",
+        "corduroy collar"
+      ],
+      "fit": "regular"
+    },
+    "person_desc": {
+      "apparent_gender": "male",
+      "apparent_age_range": "25-35",
+      "skin_tone": "olive, Fitzpatrick IV",
+      "face_shape": "oval",
+      "distinctive_facial_features": [
+        "defined jawline",
+        "prominent cheekbones",
+        "full lips",
+        "small scar on left eyebrow"
+      ],
+      "eye_color": "dark brown",
+      "eyebrows": "thick, dark, well-groomed",
+      "hair": {
+        "style": "short fade, slightly longer on top",
+        "length": "short",
+        "color": "dark brown, with some lighter brown/auburn highlights on top",
+        "texture": "straight"
+      },
+      "facial_hair": "short, neatly trimmed beard connecting to mustache",
+      "body_build": "athletic, lean",
+      "distinctive_features": []
+    },
+    "model_ref": "data\\models\\m3_man_bearded.png",
+    "garment_ref": "data\\garments\\g3_jacket_daysmarch.png"
+  },
+  "c2_woman_jacket_forest": {
+    "baseline": "outputs\\c2_woman_jacket_forest\\baseline.png",
+    "structured": [
+      "outputs\\c2_woman_jacket_forest\\structured_0.png",
+      "outputs\\c2_woman_jacket_forest\\structured_1.png",
+      "outputs\\c2_woman_jacket_forest\\structured_2.png"
+    ],
+    "garment_desc": {
+      "type": "jacket",
+      "category": "outerwear",
+      "primary_color": "dark green dreadful \u2026",
+      "secondary_colors": [
+        "dark brown"
+      ],
+      "pattern_or_print": "none",
+      "logo_or_text": "A DAY'S MARCH on internal tag below neckline",
+      "material_texture": "smooth woven fabric, corduroy collar",
+      "collar_neckline": "pointed collar with corduroy texture",
+      "closure": "buttons, concealed",
+      "sleeve_or_leg_length": "long sleeve",
+      "distinctive_details": [
+        "dark brown corduroy collar",
+        "two large flap pockets on the front torso",
+        "raglan sleeves"
+      ],
+      "fit": "regular"
+    },
+    "person_desc": {
+      "apparent_gender": "female",
+      "apparent_age_range": "20-30",
+      "skin_tone": "fair (Fitzpatrick II)",
+      "face_shape": "oval",
+      "distinctive_facial_features": [
+        "defined jawline",
+        "prominent cheekbones",
+        "full lips"
+      ],
+      "eye_color": "brown",
+      "eyebrows": "thick, dark, well-defined, arched",
+      "hair": {
+        "style": "straight, pulled back from face",
+        "length": "medium",
+        "color": "dark brown",
+        "texture": "sleek, wet look near roots"
+      },
+      "facial_hair": "none",
+      "body_build": "slender",
+      "distinctive_features": "none"
+    },
+    "model_ref": "data\\models\\m2_woman_lightskin.png",
+    "garment_ref": "data\\garments\\g3_jacket_daysmarch.png"
+  },
+  "c3_man_shorts_meadow": {
+    "baseline": "outputs\\c3_man_shorts_meadow\\baseline.png",
+    "structured": [
+      "outputs\\c3_man_shorts_meadow\\structured_0.png",
+      "outputs\\c3_man_shorts_meadow\\structured_1.png",
+      "outputs\\c3_man_shorts_meadow\\structured_2.png"
+    ],
+    "garment_desc": {
+      "type": "shorts",
+      "category": "bottom",
+      "primary_color": "olive green #738048",
+      "secondary_colors": [
+        "dark olive green #54593E"
+      ],
+      "pattern_or_print": "none",
+      "logo_or_text": "BEYOND NORDIC on upper left cargo pocket, RECCO on lower right side seam",
+      "material_texture": "smooth, possibly nylon or polyester",
+      "collar_neckline": "none",
+      "closure": "buttons 2, zipper 1",
+      "sleeve_or_leg_length": "above knee",
+      "distinctive_details": [
+        "integrated belt loops with hook-and-loop adjustable tabs on waistband sides",
+        "D-ring on front left belt loop",
+        "two zippered cargo pockets on thighs",
+        "darker green paneling on sides of thighs and gusseted crotch area"
+      ],
+      "fit": "regular"
+    },
+    "person_desc": {
+      "apparent_gender": "male",
+      "apparent_age_range": "25-35",
+      "skin_tone": "medium brown, Fitzpatrick IV",
+      "face_shape": "oval",
+      "distinctive_facial_features": [
+        "defined jawline",
+        "full lips",
+        "small scar above left eyebrow"
+      ],
+      "eye_color": "dark brown",
+      "eyebrows": "thick, dark, well-groomed",
+      "hair": {
+        "style": "short fade, slightly longer on top",
+        "length": "short",
+        "color": "dark brown with auburn highlights",
+        "texture": "straight"
+      },
+      "facial_hair": "short, well-trimmed beard and mustache connected",
+      "body_build": "athletic, lean muscle",
+      "distinctive_features": []
+    },
+    "model_ref": "data\\models\\m3_man_bearded.png",
+    "garment_ref": "data\\garments\\g1_shorts_beyondnordic.png"
+  },
+  "c4_woman_shorts_street": {
+    "baseline": "outputs\\c4_woman_shorts_street\\baseline.png",
+    "structured": [
+      "outputs\\c4_woman_shorts_street\\structured_0.png",
+      "outputs\\c4_woman_shorts_street\\structured_1.png",
+      "outputs\\c4_woman_shorts_street\\structured_2.png"
+    ],
+    "garment_desc": {
+      "type": "shorts",
+      "category": "bottom",
+      "primary_color": "olive green #738A4B",
+      "secondary_colors": [
+        "dark olive green #5C673D"
+      ],
+      "pattern_or_print": "none",
+      "logo_or_text": "BEYOND NORDIC on upper left cargo pocket, RECCO on lower right side seam",
+      "material_texture": "smooth, woven fabric",
+      "collar_neckline": "none",
+      "closure": "buttons 2, zip",
+      "sleeve_or_leg_length": "above knee",
+      "distinctive_details": [
+        "elasticated waistband with velcro tabs for adjustment",
+        "belt loops",
+        "two zippered cargo pockets",
+        "two front slip pockets",
+        "D-ring on front left belt loop"
+      ],
+      "fit": "regular"
+    },
+    "person_desc": {
+      "apparent_gender": "female",
+      "apparent_age_range": "20-30",
+      "skin_tone": "dark brown, Fitzpatrick VI",
+      "face_shape": "oval",
+      "distinctive_facial_features": [
+        "defined jawline",
+        "full lips",
+        "high cheekbones"
+      ],
+      "eye_color": "dark brown",
+      "eyebrows": "thin, dark, arched",
+      "hair": {
+        "style": "short fade, undercut sides",
+        "length": "very short",
+        "color": "black",
+        "texture": "kinky"
+      },
+      "facial_hair": "none",
+      "body_build": "slender",
+      "distinctive_features": "gold toned wide choker necklace, gold toned strappy high heels"
+    },
+    "model_ref": "data\\models\\m1_woman_darkskin.png",
+    "garment_ref": "data\\garments\\g1_shorts_beyondnordic.png"
+  },
+  "c5_woman_sneaker_forest": {
+    "baseline": "outputs\\c5_woman_sneaker_forest\\baseline.png",
+    "structured": [
+      "outputs\\c5_woman_sneaker_forest\\structured_0.png",
+      "outputs\\c5_woman_sneaker_forest\\structured_1.png",
+      "outputs\\c5_woman_sneaker_forest\\structured_2.png"
+    ],
+    "garment_desc": {
+      "type": "sneakers",
+      "category": "footwear",
+      "primary_color": "dark brown #4A3E31",
+      "secondary_colors": [
+        "tan #BB774D",
+        "light brown #8C5634",
+        "off-white #F8F8F8"
+      ],
+      "pattern_or_print": "none",
+      "logo_or_text": "ARIGATO in gold on the side near the laces, ARIGATO embossed on the midsole heel, woven label with logo in gold on the tongue (partially visible)",
+      "material_texture": "suede; rubber sole",
+      "collar_neckline": "padded ankle collar",
+      "closure": "laces",
+      "sleeve_or_leg_length": "null",
+      "distinctive_details": [
+        "perforated side panel",
+        "contrasting tan color blocking on toe box and heel",
+        "wavy edge details on lace area leather overlay"
+      ],
+      "fit": "low top"
+    },
+    "person_desc": {
+      "apparent_gender": "female",
+      "apparent_age_range": "20-25",
+      "skin_tone": "fair (Fitzpatrick III)",
+      "face_shape": "oval",
+      "distinctive_facial_features": [
+        "defined jawline",
+        "prominent cheekbones"
+      ],
+      "eye_color": "brown",
+      "eyebrows": "full, dark brown, arched",
+      "hair": {
+        "style": "parted down the middle, slicked back from the forehead",
+        "length": "medium",
+        "color": "dark brown",
+        "texture": "straight"
+      },
+      "facial_hair": "none",
+      "body_build": "slim",
+      "distinctive_features": "none"
+    },
+    "model_ref": "data\\models\\m2_woman_lightskin.png",
+    "garment_ref": "data\\garments\\g2_sneaker_axelarigato.jpg"
+  },
+  "c6_man_sneaker_street": {
+    "baseline": "outputs\\c6_man_sneaker_street\\baseline.png",
+    "structured": [
+      "outputs\\c6_man_sneaker_street\\structured_0.png",
+      "outputs\\c6_man_sneaker_street\\structured_1.png",
+      "outputs\\c6_man_sneaker_street\\structured_2.png"
+    ],
+    "garment_desc": {
+      "type": "sneakers",
+      "category": "footwear",
+      "primary_color": "dark brown #4A3528",
+      "secondary_colors": [
+        "tan #C1885E",
+        "white #FFFFFF",
+        "brown #66412D"
+      ],
+      "pattern_or_print": "none",
+      "logo_or_text": "ARIGATO on the side of the shoe near the laces in gold, ARIGATO on the side of the dark brown sole",
+      "material_texture": "suede, rubber sole",
+      "collar_neckline": "low-cut",
+      "closure": "laces",
+      "sleeve_or_leg_length": "null",
+      "distinctive_details": [
+        "perforated vamp",
+        "padded collar"
+      ],
+      "fit": "null"
+    },
+    "person_desc": {
+      "apparent_gender": "male",
+      "apparent_age_range": "25-35",
+      "skin_tone": "olive, Fitzpatrick IV",
+      "face_shape": "oval",
+      "distinctive_facial_features": [
+        "defined jawline",
+        "mustache and chin beard"
+      ],
+      "eye_color": "dark brown",
+      "eyebrows": "thick, well-groomed, dark brown",
+      "hair": {
+        "style": "short fade, slightly longer on top",
+        "length": "short",
+        "color": "dark brown with a reddish tint",
+        "texture": "straight"
+      },
+      "facial_hair": "short, neatly trimmed beard and mustache",
+      "body_build": "athletic, muscular",
+      "distinctive_features": []
+    },
+    "model_ref": "data\\models\\m3_man_bearded.png",
+    "garment_ref": "data\\garments\\g2_sneaker_axelarigato.jpg"
+  }
+}

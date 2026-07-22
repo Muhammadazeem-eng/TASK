@@ -1,0 +1,22 @@
+{
+  "apparent_gender": "female",
+  "apparent_age_range": "20-30",
+  "skin_tone": "dark brown, Fitzpatrick VI",
+  "face_shape": "oval",
+  "distinctive_facial_features": [
+    "defined jawline",
+    "full lips",
+    "high cheekbones"
+  ],
+  "eye_color": "dark brown",
+  "eyebrows": "thin, dark, arched",
+  "hair": {
+    "style": "short fade, undercut sides",
+    "length": "very short",
+    "color": "black",
+    "texture": "kinky"
+  },
+  "facial_hair": "none",
+  "body_build": "slender",
+  "distinctive_features": "gold toned wide choker necklace, gold toned strappy high heels"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "jacket",
+  "category": "outerwear",
+  "primary_color": "dark olive green #3E4B3E",
+  "secondary_colors": [
+    "dark brown #4B3B2B"
+  ],
+  "pattern_or_print": "none",
+  "logo_or_text": "A DAY'S MARCH on internal tag below collar",
+  "material_texture": "smooth woven fabric with visible stitching, corduroy collar",
+  "collar_neckline": "pointed collar with corduroy texture",
+  "closure": "buttons, concealed",
+  "sleeve_or_leg_length": "long sleeve",
+  "distinctive_details": [
+    "two rectangular flap pockets on front hip",
+    "raglan sleeves",
+    "corduroy collar"
+  ],
+  "fit": "regular"
+}

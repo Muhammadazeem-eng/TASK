@@ -1,0 +1,44 @@
+[
+  {
+    "case": "c1_man_jacket_street",
+    "arcface_flash": 0.7772985696792603,
+    "arcface_pro": 0.6926068067550659,
+    "clip_flash": 0.3182659447193146,
+    "clip_pro": 0.3583822250366211
+  },
+  {
+    "case": "c2_woman_jacket_forest",
+    "arcface_flash": 0.43322545289993286,
+    "arcface_pro": 0.5742325186729431,
+    "clip_flash": 0.4681505262851715,
+    "clip_pro": 0.5620660781860352
+  },
+  {
+    "case": "c3_man_shorts_meadow",
+    "arcface_flash": 0.8084865808486938,
+    "arcface_pro": 0.808402419090271,
+    "clip_flash": 0.4249037504196167,
+    "clip_pro": 0.462250679731369
+  },
+  {
+    "case": "c4_woman_shorts_street",
+    "arcface_flash": 0.5389481782913208,
+    "arcface_pro": 0.36287209391593933,
+    "clip_flash": 0.3208957314491272,
+    "clip_pro": 0.22281181812286377
+  },
+  {
+    "case": "c5_woman_sneaker_forest",
+    "arcface_flash": 0.54692143201828,
+    "arcface_pro": 0.5118532180786133,
+    "clip_flash": 0.17488247156143188,
+    "clip_pro": 0.19023586809635162
+  },
+  {
+    "case": "c6_man_sneaker_street",
+    "arcface_flash": 0.780325174331665,
+    "arcface_pro": 0.8287842273712158,
+    "clip_flash": 0.24295161664485931,
+    "clip_pro": 0.20542320609092712
+  }
+]

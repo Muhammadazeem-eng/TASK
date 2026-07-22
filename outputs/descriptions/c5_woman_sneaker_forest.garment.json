@@ -1,0 +1,22 @@
+{
+  "type": "sneakers",
+  "category": "footwear",
+  "primary_color": "dark brown #4A3E31",
+  "secondary_colors": [
+    "tan #BB774D",
+    "light brown #8C5634",
+    "off-white #F8F8F8"
+  ],
+  "pattern_or_print": "none",
+  "logo_or_text": "ARIGATO in gold on the side near the laces, ARIGATO embossed on the midsole heel, woven label with logo in gold on the tongue (partially visible)",
+  "material_texture": "suede; rubber sole",
+  "collar_neckline": "padded ankle collar",
+  "closure": "laces",
+  "sleeve_or_leg_length": "null",
+  "distinctive_details": [
+    "perforated side panel",
+    "contrasting tan color blocking on toe box and heel",
+    "wavy edge details on lace area leather overlay"
+  ],
+  "fit": "low top"
+}
